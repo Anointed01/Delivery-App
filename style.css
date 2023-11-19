@@ -73,6 +73,12 @@ height: 108px;
 flex-shrink: 0;
 background-color: #FFF;
 }
+/* .dishes-container-2 {
+    width: 108x;
+height: 108px;
+flex-shrink: 0;
+background-color: #FFF;
+} */
 
 .dish-p-2{
     color: #191720;
@@ -93,4 +99,25 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 letter-spacing: -0.258px;
+}
+
+.order-p {
+    color: #494949;
+    font-family: Inter;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; /* 147.826% */
+}
+
+.cardStyle {
+    background-color: rgb(218, 210, 210) !important;
+}
+
+.download-icon {
+    width: auto;
+    height: 40px;
+}
+.ml-10 {
+    margin-left: 10px;
 }
