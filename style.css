@@ -138,4 +138,15 @@ letter-spacing: -0.258px;
         width: auto;
         height: 280px;
     }
+    .dish-head {
+        font-size: 32px;
+        line-height: 40px; /* 126.087% */
+    }
+    .card-height {
+        height: 300px;
+    }
+    .quote-svg {
+        width: 25px;
+        height: 25px;
+    }
 }
