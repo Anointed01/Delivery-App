@@ -121,3 +121,18 @@ letter-spacing: -0.258px;
 .ml-10 {
     margin-left: 10px;
 }
+
+
+@media only screen and (max-width: 600px) {
+    .intro-head {
+        font-size: 36px;
+        line-height: 30px;
+    } 
+    .delivery-container {
+        width: 570px;
+    height: 478px;
+    flex-shrink: 0;
+    border-radius: 36px;
+    background: #F2EBDA;
+    }
+}
